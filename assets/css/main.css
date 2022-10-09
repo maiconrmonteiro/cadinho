@@ -60,9 +60,24 @@ mark {
 	color: inherit;
 }
 
+
 input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
+}
+
+.logo{
+	width: 50%;
+}
+
+
+
+.div-mapa {
+	text-align: center;
+}
+
+.mapa {
+	width: 90vw;
 }
 
 input, select, textarea {
