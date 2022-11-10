@@ -1636,6 +1636,25 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
+.chamada-comentarios-google {
+	text-align: center;
+	padding-top: 50px;
+}
+
+p.link-google {
+	font-size: 20px;
+	font-weight: 550;
+	color: #e97770;
+}
+
+.link-google > a {
+	text-decoration: none;
+}
+
+.link-google > a:visited {
+	text-decoration: none;
+}
+
 /* Button */
 
 	input[type="button"],
