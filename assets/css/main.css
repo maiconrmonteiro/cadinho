@@ -89,6 +89,8 @@ input, select, textarea {
 
 /* Basic */
 
+
+
 	@-ms-viewport {
 		width: device-width;
 	}
@@ -2037,13 +2039,13 @@ p.link-google {
 
 		.wrapper.style1 {
 			background: #f5b21a url("images/overlay.png");
-			color: #eee;
-			color: rgba(255, 255, 255, 0.75);
+			color: #2d3139;
+			color: #2d3139;
 		}
 
 			.wrapper.style1 .title {
 				background: #f5b21a url("images/overlay.png");
-				color: #fff;
+				color: #2e323a;
 			}
 
 			.wrapper.style1 h1, .wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6, .wrapper.style1 strong, .wrapper.style1 b, .wrapper.style1 a {
@@ -2132,13 +2134,13 @@ p.link-google {
 		}
 
 		#logo p {
-			color: #eee;
-			color: rgba(255, 255, 255, 0.5);
+			color: white;
+			color: white;
 			text-transform: uppercase;
 			margin: 1.25em 0 0 0;
 			display: block;
 			letter-spacing: 0.2em;
-			font-size: 0.9em;
+			font-size: 1.2em;
 		}
 
 /* Nav */
@@ -2799,6 +2801,10 @@ p.link-google {
 
 			hr {
 				margin: 1em 0 1em 0;
+			}
+
+			#logo > img {
+				width: 90%;
 			}
 
 		/* Section/Article */
